@@ -29,7 +29,7 @@ for i in range(5, 41):
     f[i] = f[i - 1] + f[i - 2] + f[i - 3]
 print(f[n])
 ```
-### 程序设计大赛题目F（二级标题）
+### 程序设计大赛题目F（三级标题）
 
 `print("guliantian")`
 
